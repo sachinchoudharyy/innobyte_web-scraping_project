@@ -55,14 +55,14 @@ A **Streamlit** web application that scrapes doctor details from **Practo** base
 ```
 Total number of doctors found in Bangalore: 15
 
-Name: Dr. XYZ
+Name: Dr. mohit
 Specialization: Dermatologist
 Experience: 10 years
 Locality: Indiranagar
 City: Bangalore
 
 ---
-Name: Dr. ABC
+Name: Dr. V.C. Sharma
 Specialization: Dermatologist
 Experience: 5 years
 Locality: Koramangala
