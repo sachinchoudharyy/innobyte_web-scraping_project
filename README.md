@@ -82,7 +82,7 @@ City: Bangalore
 This project is licensed under the **MIT License**.
 
 ## Contributors
-- **[Your Name]** - Developer
+- SACHIN CHOUDHARY  - Developer
 
 ## Feedback
 If you encounter any issues or have suggestions for improvements, feel free to raise an issue or submit a pull request.
